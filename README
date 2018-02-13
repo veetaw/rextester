@@ -1,0 +1,6 @@
+unofficial python wrapper for rextester.com with a simple telegram bot
+
+```
+  cd rextester/src/telegram
+  python3 bot.py
+```
