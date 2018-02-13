@@ -1,6 +1,6 @@
 unofficial python wrapper for rextester.com with a simple telegram bot
 
-```
+
+INSTALLATION:
   cd rextester/src/telegram
   python3 bot.py
-```
